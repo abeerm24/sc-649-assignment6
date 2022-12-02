@@ -1,0 +1,3 @@
+float32 Robot_position_x
+float32 Robot_position_y
+float32 Robot_orientation
